@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: KoreoTrack-FarLeft-Bottom
+  m_EditorClassIdentifier: 
+  mEventID: Block-FarLeft-Bottom
+  mEventList:
+  - mStartSample: 820105
+    mEndSample: 820105
+  - mStartSample: 928421
+    mEndSample: 928421
+  - mStartSample: 1029000
+    mEndSample: 1029000
+  - mStartSample: 1137315
+    mEndSample: 1137315
+  - mStartSample: 1268842
+    mEndSample: 1268842
+  - mStartSample: 1431315
+    mEndSample: 1431315
+  - mStartSample: 1477736
+    mEndSample: 1477736
+  - mStartSample: 1531894
+    mEndSample: 1531894
+  - mStartSample: 1949684
+    mEndSample: 1949684
+  - mStartSample: 2050263
+    mEndSample: 2050263
+  - mStartSample: 2305578
+    mEndSample: 2305578
+  - mStartSample: 2359736
+    mEndSample: 2359736
+  - mStartSample: 2553157
+    mEndSample: 2553157
+  - mStartSample: 2707894
+    mEndSample: 2707894
+  - mStartSample: 2901315
+    mEndSample: 2901315
+  - mStartSample: 2994157
+    mEndSample: 2994157
+  - mStartSample: 3133421
+    mEndSample: 3133421
+  - mStartSample: 3295894
+    mEndSample: 3295894
+  - mStartSample: 3543473
+    mEndSample: 3543473
+  - mStartSample: 3791052
+    mEndSample: 3791052
+  - mStartSample: 3899368
+    mEndSample: 3899368
+  - mStartSample: 3999947
+    mEndSample: 3999947
+  - mStartSample: 4108263
+    mEndSample: 4108263
+  - mStartSample: 4239789
+    mEndSample: 4239789
+  - mStartSample: 4402263
+    mEndSample: 4402263
+  - mStartSample: 4448684
+    mEndSample: 4448684
+  - mStartSample: 4502842
+    mEndSample: 4502842
+  - mStartSample: 4657578
+    mEndSample: 4657578
+  - mStartSample: 4781368
+    mEndSample: 4781368
+  - mStartSample: 4820052
+    mEndSample: 4820052
+  - mStartSample: 4905157
+    mEndSample: 4905157
+  - mStartSample: 5005736
+    mEndSample: 5005736
+  - mStartSample: 5183684
+    mEndSample: 5183684
+  - mStartSample: 5377105
+    mEndSample: 5377105
+  - mStartSample: 5469947
+    mEndSample: 5469947
+  - mStartSample: 5609210
+    mEndSample: 5609210
+  - mStartSample: 5771684
+    mEndSample: 5771684
+  - mStartSample: 6019263
+    mEndSample: 6019263
+  - mStartSample: 6359684
+    mEndSample: 6359684
+  - mStartSample: 6406105
+    mEndSample: 6406105
+  - mStartSample: 6437052
+    mEndSample: 6437052
+  - mStartSample: 6498947
+    mEndSample: 6498947
+  - mStartSample: 6661421
+    mEndSample: 6661421
+  - mStartSample: 6684631
+    mEndSample: 6684631
+  - mStartSample: 6986368
+    mEndSample: 6986368
+  - mStartSample: 7009578
+    mEndSample: 7009578
+  - mStartSample: 7148842
+    mEndSample: 7148842
+  - mStartSample: 7288105
+    mEndSample: 7288105
+  - mStartSample: 7481526
+    mEndSample: 7481526
+  - mStartSample: 7644000
+    mEndSample: 7644000
+  - mStartSample: 7752315
+    mEndSample: 7752315
+  - mStartSample: 7860631
+    mEndSample: 7860631
+  - mStartSample: 7961210
+    mEndSample: 7961210
+  - mStartSample: 8069526
+    mEndSample: 8069526
+  - mStartSample: 8201052
+    mEndSample: 8201052
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: '{"_time":53.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":60.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":66.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":73.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":82.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":92.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":95.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":99.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":126.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":132.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":149.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":152.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":165.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":175.0,"_lineIndex":0,"_lineLayer":0,"_type":1,"_cutDirection":2,"_customData":null}'
+  - mTextVal: '{"_time":187.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":193.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":202.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":213.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":229.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":245.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":252.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":258.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":265.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":274.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":284.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":287.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":291.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":301.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":309.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":311.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":317.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":323.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":335.0,"_lineIndex":0,"_lineLayer":0,"_type":1,"_cutDirection":2,"_customData":null}'
+  - mTextVal: '{"_time":347.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":353.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":362.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":373.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":389.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":411.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":414.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":416.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":420.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":430.5,"_lineIndex":0,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":432.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":451.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":453.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":462.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":471.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":483.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":494.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":501.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":508.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":514.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":521.5,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":530.0,"_lineIndex":0,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000030000000310000003200000033000000340000003500000036000000

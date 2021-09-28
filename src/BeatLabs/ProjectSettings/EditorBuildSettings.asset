@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_00_PlaygroundSelector/Scenes/_00_PlaygroundSelectorScene.unity
+    guid: f87b7f3e062d41b48957ef98c1e0e6d7
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_01_XRRig/Scenes/_01_XRRigScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_02_KoreographerPlayground/Scenes/_02_KoreographerPlaygroundScene.unity
+    guid: 45045d5593bd7994a9a92305096cc4ee
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_03_KoreoMidi/Scenes/_03_KoreoMidiScene.unity
+    guid: f2d0096ff1440ff4493a9786e5a33f94
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_04_BeatSaberMaps/Scenes/_04_BeatSaberMapsScene.unity
+    guid: 87997e389ebf0c24ba99f20d0d364bcc
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_05_BlockSpawning/Scenes/_05_BlockSpawningScene.unity
+    guid: 34242f1317f9d7044837e89a0c1c59dc
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_06_Sabers/Scenes/_06_SabersScene.unity
+    guid: 95a5f303c1883344190805b1c05bd01b
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_08_SeatBaber/Scenes/_08_SeatBaberScene.unity
+    guid: e9b52da6d63b4804c8929f58c90af138
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_09_UI/Scenes/_09_UIScene.unity
+    guid: 15ca5c14bda3c9a48ab33ad44021e3e8
+  - enabled: 1
+    path: Assets/BeaVeR/Scenes/MainScene.unity
+    guid: 21a78fa0036b85648847ce4fc699939d
+  - enabled: 1
+    path: Assets/BeatLabsPlaygrounds/_10_DataBinding/Scenes/_10_DataBindingScene.unity
+    guid: a95799a8b2b048f4fae712045ad494bd
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e9a949f344bd326498b21ea448dbe8e4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 304f861d592214638b6a6b5bd2e6d5f5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f6d5f64eb4c1742df8a0f1ce5d994ab7, type: 2}

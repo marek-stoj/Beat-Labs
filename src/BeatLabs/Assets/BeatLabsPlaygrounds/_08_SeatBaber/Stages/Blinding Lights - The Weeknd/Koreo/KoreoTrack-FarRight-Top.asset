@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: KoreoTrack-FarRight-Top
+  m_EditorClassIdentifier: 
+  mEventID: Block-FarRight-Top
+  mEventList:
+  - mStartSample: 998052
+    mEndSample: 998052
+  - mStartSample: 3264947
+    mEndSample: 3264947
+  - mStartSample: 3295894
+    mEndSample: 3295894
+  - mStartSample: 3744631
+    mEndSample: 3744631
+  - mStartSample: 3969000
+    mEndSample: 3969000
+  - mStartSample: 5740736
+    mEndSample: 5740736
+  - mStartSample: 5771684
+    mEndSample: 5771684
+  - mStartSample: 6560842
+    mEndSample: 6560842
+  - mStartSample: 6684631
+    mEndSample: 6684631
+  - mStartSample: 7411894
+    mEndSample: 7411894
+  - mStartSample: 7705894
+    mEndSample: 7705894
+  - mStartSample: 7930263
+    mEndSample: 7930263
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: '{"_time":64.5,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":211.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":213.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":5,"_customData":null}'
+  - mTextVal: '{"_time":242.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":5,"_customData":null}'
+  - mTextVal: '{"_time":256.5,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":371.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":373.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":5,"_customData":null}'
+  - mTextVal: '{"_time":424.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":5,"_customData":null}'
+  - mTextVal: '{"_time":432.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":5,"_customData":null}'
+  - mTextVal: '{"_time":479.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":498.0,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":5,"_customData":null}'
+  - mTextVal: '{"_time":512.5,"_lineIndex":3,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b000000

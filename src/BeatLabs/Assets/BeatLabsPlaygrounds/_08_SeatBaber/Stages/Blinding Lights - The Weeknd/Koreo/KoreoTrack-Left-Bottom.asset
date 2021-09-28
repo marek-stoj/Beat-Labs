@@ -1,0 +1,457 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: KoreoTrack-Left-Bottom
+  m_EditorClassIdentifier: 
+  mEventID: Block-Left-Bottom
+  mEventList:
+  - mStartSample: 603473
+    mEndSample: 603473
+  - mStartSample: 680842
+    mEndSample: 680842
+  - mStartSample: 742736
+    mEndSample: 742736
+  - mStartSample: 820105
+    mEndSample: 820105
+  - mStartSample: 912947
+    mEndSample: 912947
+  - mStartSample: 936157
+    mEndSample: 936157
+  - mStartSample: 974842
+    mEndSample: 974842
+  - mStartSample: 1013526
+    mEndSample: 1013526
+  - mStartSample: 1152789
+    mEndSample: 1152789
+  - mStartSample: 1253368
+    mEndSample: 1253368
+  - mStartSample: 1292052
+    mEndSample: 1292052
+  - mStartSample: 1307526
+    mEndSample: 1307526
+  - mStartSample: 1330736
+    mEndSample: 1330736
+  - mStartSample: 1415842
+    mEndSample: 1415842
+  - mStartSample: 1439052
+    mEndSample: 1439052
+  - mStartSample: 1485473
+    mEndSample: 1485473
+  - mStartSample: 1547368
+    mEndSample: 1547368
+  - mStartSample: 1578315
+    mEndSample: 1578315
+  - mStartSample: 1686631
+    mEndSample: 1686631
+  - mStartSample: 1702105
+    mEndSample: 1702105
+  - mStartSample: 1787210
+    mEndSample: 1787210
+  - mStartSample: 1802684
+    mEndSample: 1802684
+  - mStartSample: 1856842
+    mEndSample: 1856842
+  - mStartSample: 1887789
+    mEndSample: 1887789
+  - mStartSample: 1918736
+    mEndSample: 1918736
+  - mStartSample: 1957421
+    mEndSample: 1957421
+  - mStartSample: 2034789
+    mEndSample: 2034789
+  - mStartSample: 2058000
+    mEndSample: 2058000
+  - mStartSample: 2104421
+    mEndSample: 2104421
+  - mStartSample: 2166315
+    mEndSample: 2166315
+  - mStartSample: 2197263
+    mEndSample: 2197263
+  - mStartSample: 2243684
+    mEndSample: 2243684
+  - mStartSample: 2274631
+    mEndSample: 2274631
+  - mStartSample: 2290105
+    mEndSample: 2290105
+  - mStartSample: 2321052
+    mEndSample: 2321052
+  - mStartSample: 2406157
+    mEndSample: 2406157
+  - mStartSample: 2421631
+    mEndSample: 2421631
+  - mStartSample: 2444842
+    mEndSample: 2444842
+  - mStartSample: 2514473
+    mEndSample: 2514473
+  - mStartSample: 2537684
+    mEndSample: 2537684
+  - mStartSample: 2584105
+    mEndSample: 2584105
+  - mStartSample: 2638263
+    mEndSample: 2638263
+  - mStartSample: 2676947
+    mEndSample: 2676947
+  - mStartSample: 2785263
+    mEndSample: 2785263
+  - mStartSample: 2909052
+    mEndSample: 2909052
+  - mStartSample: 2947736
+    mEndSample: 2947736
+  - mStartSample: 2994157
+    mEndSample: 2994157
+  - mStartSample: 3025105
+    mEndSample: 3025105
+  - mStartSample: 3071526
+    mEndSample: 3071526
+  - mStartSample: 3117947
+    mEndSample: 3117947
+  - mStartSample: 3218526
+    mEndSample: 3218526
+  - mStartSample: 3272684
+    mEndSample: 3272684
+  - mStartSample: 3288157
+    mEndSample: 3288157
+  - mStartSample: 3458368
+    mEndSample: 3458368
+  - mStartSample: 3512526
+    mEndSample: 3512526
+  - mStartSample: 3528000
+    mEndSample: 3528000
+  - mStartSample: 3551210
+    mEndSample: 3551210
+  - mStartSample: 3605368
+    mEndSample: 3605368
+  - mStartSample: 3644052
+    mEndSample: 3644052
+  - mStartSample: 3783315
+    mEndSample: 3783315
+  - mStartSample: 3883894
+    mEndSample: 3883894
+  - mStartSample: 3907105
+    mEndSample: 3907105
+  - mStartSample: 3945789
+    mEndSample: 3945789
+  - mStartSample: 3984473
+    mEndSample: 3984473
+  - mStartSample: 4123736
+    mEndSample: 4123736
+  - mStartSample: 4224315
+    mEndSample: 4224315
+  - mStartSample: 4263000
+    mEndSample: 4263000
+  - mStartSample: 4278473
+    mEndSample: 4278473
+  - mStartSample: 4301684
+    mEndSample: 4301684
+  - mStartSample: 4386789
+    mEndSample: 4386789
+  - mStartSample: 4410000
+    mEndSample: 4410000
+  - mStartSample: 4456421
+    mEndSample: 4456421
+  - mStartSample: 4518315
+    mEndSample: 4518315
+  - mStartSample: 4549263
+    mEndSample: 4549263
+  - mStartSample: 4704000
+    mEndSample: 4704000
+  - mStartSample: 4758157
+    mEndSample: 4758157
+  - mStartSample: 4773631
+    mEndSample: 4773631
+  - mStartSample: 4812315
+    mEndSample: 4812315
+  - mStartSample: 4866473
+    mEndSample: 4866473
+  - mStartSample: 4889684
+    mEndSample: 4889684
+  - mStartSample: 4936105
+    mEndSample: 4936105
+  - mStartSample: 4974789
+    mEndSample: 4974789
+  - mStartSample: 5021210
+    mEndSample: 5021210
+  - mStartSample: 5044421
+    mEndSample: 5044421
+  - mStartSample: 5098578
+    mEndSample: 5098578
+  - mStartSample: 5152736
+    mEndSample: 5152736
+  - mStartSample: 5268789
+    mEndSample: 5268789
+  - mStartSample: 5384842
+    mEndSample: 5384842
+  - mStartSample: 5423526
+    mEndSample: 5423526
+  - mStartSample: 5469947
+    mEndSample: 5469947
+  - mStartSample: 5500894
+    mEndSample: 5500894
+  - mStartSample: 5547315
+    mEndSample: 5547315
+  - mStartSample: 5593736
+    mEndSample: 5593736
+  - mStartSample: 5694315
+    mEndSample: 5694315
+  - mStartSample: 5748473
+    mEndSample: 5748473
+  - mStartSample: 5763947
+    mEndSample: 5763947
+  - mStartSample: 5934157
+    mEndSample: 5934157
+  - mStartSample: 5988315
+    mEndSample: 5988315
+  - mStartSample: 6003789
+    mEndSample: 6003789
+  - mStartSample: 6027000
+    mEndSample: 6027000
+  - mStartSample: 6081157
+    mEndSample: 6081157
+  - mStartSample: 6119842
+    mEndSample: 6119842
+  - mStartSample: 6189473
+    mEndSample: 6189473
+  - mStartSample: 6220421
+    mEndSample: 6220421
+  - mStartSample: 6259105
+    mEndSample: 6259105
+  - mStartSample: 6282315
+    mEndSample: 6282315
+  - mStartSample: 6413842
+    mEndSample: 6413842
+  - mStartSample: 6491210
+    mEndSample: 6491210
+  - mStartSample: 6553105
+    mEndSample: 6553105
+  - mStartSample: 6653684
+    mEndSample: 6653684
+  - mStartSample: 6669157
+    mEndSample: 6669157
+  - mStartSample: 6715578
+    mEndSample: 6715578
+  - mStartSample: 6746526
+    mEndSample: 6746526
+  - mStartSample: 6862578
+    mEndSample: 6862578
+  - mStartSample: 6885789
+    mEndSample: 6885789
+  - mStartSample: 6924473
+    mEndSample: 6924473
+  - mStartSample: 7017315
+    mEndSample: 7017315
+  - mStartSample: 7094684
+    mEndSample: 7094684
+  - mStartSample: 7179789
+    mEndSample: 7179789
+  - mStartSample: 7241684
+    mEndSample: 7241684
+  - mStartSample: 7326789
+    mEndSample: 7326789
+  - mStartSample: 7357736
+    mEndSample: 7357736
+  - mStartSample: 7373210
+    mEndSample: 7373210
+  - mStartSample: 7380947
+    mEndSample: 7380947
+  - mStartSample: 7450578
+    mEndSample: 7450578
+  - mStartSample: 7543421
+    mEndSample: 7543421
+  - mStartSample: 7605315
+    mEndSample: 7605315
+  - mStartSample: 7674947
+    mEndSample: 7674947
+  - mStartSample: 7744578
+    mEndSample: 7744578
+  - mStartSample: 7845157
+    mEndSample: 7845157
+  - mStartSample: 7868368
+    mEndSample: 7868368
+  - mStartSample: 7907052
+    mEndSample: 7907052
+  - mStartSample: 7945736
+    mEndSample: 7945736
+  - mStartSample: 8084999
+    mEndSample: 8084999
+  - mStartSample: 8185578
+    mEndSample: 8185578
+  - mStartSample: 8239736
+    mEndSample: 8239736
+  - mStartSample: 8386736
+    mEndSample: 8386736
+  - mStartSample: 8409947
+    mEndSample: 8409947
+  - mStartSample: 8502789
+    mEndSample: 8502789
+  - mStartSample: 8533736
+    mEndSample: 8533736
+  - mStartSample: 8580157
+    mEndSample: 8580157
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: '{"_time":39.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":44.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":48.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":53.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":59.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":60.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":63.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":65.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":74.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":81.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":83.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":84.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":86.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":91.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":93.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":96.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":100.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":102.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":109.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":110.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":115.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":116.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":120.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":122.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":124.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":126.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":131.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":133.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":136.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":140.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":142.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":2,"_customData":null}'
+  - mTextVal: '{"_time":145.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":147.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":148.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":150.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":155.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":156.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":158.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":162.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":164.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":167.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":3,"_customData":null}'
+  - mTextVal: '{"_time":170.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":173.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":180.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":188.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":190.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":193.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":195.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":198.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":201.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":208.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":211.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":212.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":223.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":227.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":228.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":229.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":233.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":235.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":244.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":251.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":252.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":255.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":257.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":266.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":273.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":275.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":276.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":278.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":283.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":285.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":288.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":292.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":294.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":304.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":307.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":308.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":311.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":314.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":316.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":319.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":3,"_customData":null}'
+  - mTextVal: '{"_time":321.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":324.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":326.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":329.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":333.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":340.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":348.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":350.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":353.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":355.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":358.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":361.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":368.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":371.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":372.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":383.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":387.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":388.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":389.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":393.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":395.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":400.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":402.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":404.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":406.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":414.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":419.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":423.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":430.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":431.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":434.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":436.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":443.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":445.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":447.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":453.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":458.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":2,"_customData":null}'
+  - mTextVal: '{"_time":464.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":468.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":473.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":475.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":476.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":477.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":481.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":487.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":491.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":496.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":500.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":507.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":508.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":511.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":513.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":522.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":529.0,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":532.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":542.0,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":543.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":549.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":551.5,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":554.5,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c000000

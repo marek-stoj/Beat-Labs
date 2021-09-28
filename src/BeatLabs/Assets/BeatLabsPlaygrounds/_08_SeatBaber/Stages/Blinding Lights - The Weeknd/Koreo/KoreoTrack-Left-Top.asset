@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: KoreoTrack-Left-Top
+  m_EditorClassIdentifier: 
+  mEventID: Block-Left-Top
+  mEventList:
+  - mStartSample: 796894
+    mEndSample: 796894
+  - mStartSample: 882000
+    mEndSample: 882000
+  - mStartSample: 1044473
+    mEndSample: 1044473
+  - mStartSample: 1129578
+    mEndSample: 1129578
+  - mStartSample: 1183736
+    mEndSample: 1183736
+  - mStartSample: 2150842
+    mEndSample: 2150842
+  - mStartSample: 2375210
+    mEndSample: 2375210
+  - mStartSample: 2653736
+    mEndSample: 2653736
+  - mStartSample: 2893578
+    mEndSample: 2893578
+  - mStartSample: 2940000
+    mEndSample: 2940000
+  - mStartSample: 3852947
+    mEndSample: 3852947
+  - mStartSample: 4015421
+    mEndSample: 4015421
+  - mStartSample: 4100526
+    mEndSample: 4100526
+  - mStartSample: 4154684
+    mEndSample: 4154684
+  - mStartSample: 5129526
+    mEndSample: 5129526
+  - mStartSample: 5369368
+    mEndSample: 5369368
+  - mStartSample: 5415789
+    mEndSample: 5415789
+  - mStartSample: 6375157
+    mEndSample: 6375157
+  - mStartSample: 6622736
+    mEndSample: 6622736
+  - mStartSample: 6761999
+    mEndSample: 6761999
+  - mStartSample: 6994105
+    mEndSample: 6994105
+  - mStartSample: 7288105
+    mEndSample: 7288105
+  - mStartSample: 7620789
+    mEndSample: 7620789
+  - mStartSample: 7814210
+    mEndSample: 7814210
+  - mStartSample: 7976684
+    mEndSample: 7976684
+  - mStartSample: 8061789
+    mEndSample: 8061789
+  - mStartSample: 8115947
+    mEndSample: 8115947
+  - mStartSample: 8634315
+    mEndSample: 8634315
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: '{"_time":51.5,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":57.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":67.5,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":73.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":76.5,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":139.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":153.5,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":171.5,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":187.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":190.0,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":249.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":259.5,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":265.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":268.5,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":331.5,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":347.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":350.0,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":412.0,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":428.0,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":437.0,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":452.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":471.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":492.5,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":505.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":515.5,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":521.0,"_lineIndex":1,"_lineLayer":2,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":524.5,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":558.0,"_lineIndex":1,"_lineLayer":2,"_type":0,"_cutDirection":0,"_customData":null}'
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b000000

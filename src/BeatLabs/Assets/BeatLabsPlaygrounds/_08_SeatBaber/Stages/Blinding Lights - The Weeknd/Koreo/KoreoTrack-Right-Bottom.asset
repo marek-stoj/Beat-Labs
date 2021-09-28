@@ -1,0 +1,451 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: KoreoTrack-Right-Bottom
+  m_EditorClassIdentifier: 
+  mEventID: Block-Right-Bottom
+  mEventList:
+  - mStartSample: 572526
+    mEndSample: 572526
+  - mStartSample: 634421
+    mEndSample: 634421
+  - mStartSample: 673105
+    mEndSample: 673105
+  - mStartSample: 711789
+    mEndSample: 711789
+  - mStartSample: 773684
+    mEndSample: 773684
+  - mStartSample: 812368
+    mEndSample: 812368
+  - mStartSample: 851052
+    mEndSample: 851052
+  - mStartSample: 889736
+    mEndSample: 889736
+  - mStartSample: 920684
+    mEndSample: 920684
+  - mStartSample: 943894
+    mEndSample: 943894
+  - mStartSample: 1090894
+    mEndSample: 1090894
+  - mStartSample: 1183736
+    mEndSample: 1183736
+  - mStartSample: 1206947
+    mEndSample: 1206947
+  - mStartSample: 1299789
+    mEndSample: 1299789
+  - mStartSample: 1361684
+    mEndSample: 1361684
+  - mStartSample: 1392631
+    mEndSample: 1392631
+  - mStartSample: 1423578
+    mEndSample: 1423578
+  - mStartSample: 1462263
+    mEndSample: 1462263
+  - mStartSample: 1539631
+    mEndSample: 1539631
+  - mStartSample: 1562842
+    mEndSample: 1562842
+  - mStartSample: 1609263
+    mEndSample: 1609263
+  - mStartSample: 1748526
+    mEndSample: 1748526
+  - mStartSample: 1794947
+    mEndSample: 1794947
+  - mStartSample: 1825894
+    mEndSample: 1825894
+  - mStartSample: 1911000
+    mEndSample: 1911000
+  - mStartSample: 1934210
+    mEndSample: 1934210
+  - mStartSample: 1980631
+    mEndSample: 1980631
+  - mStartSample: 2042526
+    mEndSample: 2042526
+  - mStartSample: 2073473
+    mEndSample: 2073473
+  - mStartSample: 2228210
+    mEndSample: 2228210
+  - mStartSample: 2282368
+    mEndSample: 2282368
+  - mStartSample: 2297842
+    mEndSample: 2297842
+  - mStartSample: 2336526
+    mEndSample: 2336526
+  - mStartSample: 2390684
+    mEndSample: 2390684
+  - mStartSample: 2413894
+    mEndSample: 2413894
+  - mStartSample: 2460315
+    mEndSample: 2460315
+  - mStartSample: 2499000
+    mEndSample: 2499000
+  - mStartSample: 2545421
+    mEndSample: 2545421
+  - mStartSample: 2568631
+    mEndSample: 2568631
+  - mStartSample: 2622789
+    mEndSample: 2622789
+  - mStartSample: 2777526
+    mEndSample: 2777526
+  - mStartSample: 2793000
+    mEndSample: 2793000
+  - mStartSample: 2963210
+    mEndSample: 2963210
+  - mStartSample: 3017368
+    mEndSample: 3017368
+  - mStartSample: 3032842
+    mEndSample: 3032842
+  - mStartSample: 3056052
+    mEndSample: 3056052
+  - mStartSample: 3110210
+    mEndSample: 3110210
+  - mStartSample: 3148894
+    mEndSample: 3148894
+  - mStartSample: 3218526
+    mEndSample: 3218526
+  - mStartSample: 3280421
+    mEndSample: 3280421
+  - mStartSample: 3404210
+    mEndSample: 3404210
+  - mStartSample: 3442894
+    mEndSample: 3442894
+  - mStartSample: 3489315
+    mEndSample: 3489315
+  - mStartSample: 3520263
+    mEndSample: 3520263
+  - mStartSample: 3566684
+    mEndSample: 3566684
+  - mStartSample: 3613105
+    mEndSample: 3613105
+  - mStartSample: 3775578
+    mEndSample: 3775578
+  - mStartSample: 3822000
+    mEndSample: 3822000
+  - mStartSample: 3860684
+    mEndSample: 3860684
+  - mStartSample: 3891631
+    mEndSample: 3891631
+  - mStartSample: 3914842
+    mEndSample: 3914842
+  - mStartSample: 4061842
+    mEndSample: 4061842
+  - mStartSample: 4154684
+    mEndSample: 4154684
+  - mStartSample: 4177894
+    mEndSample: 4177894
+  - mStartSample: 4270736
+    mEndSample: 4270736
+  - mStartSample: 4332631
+    mEndSample: 4332631
+  - mStartSample: 4363578
+    mEndSample: 4363578
+  - mStartSample: 4394526
+    mEndSample: 4394526
+  - mStartSample: 4433210
+    mEndSample: 4433210
+  - mStartSample: 4510578
+    mEndSample: 4510578
+  - mStartSample: 4533789
+    mEndSample: 4533789
+  - mStartSample: 4580210
+    mEndSample: 4580210
+  - mStartSample: 4642105
+    mEndSample: 4642105
+  - mStartSample: 4673052
+    mEndSample: 4673052
+  - mStartSample: 4719473
+    mEndSample: 4719473
+  - mStartSample: 4750421
+    mEndSample: 4750421
+  - mStartSample: 4765894
+    mEndSample: 4765894
+  - mStartSample: 4796842
+    mEndSample: 4796842
+  - mStartSample: 4881947
+    mEndSample: 4881947
+  - mStartSample: 4897421
+    mEndSample: 4897421
+  - mStartSample: 4920631
+    mEndSample: 4920631
+  - mStartSample: 4990263
+    mEndSample: 4990263
+  - mStartSample: 5013473
+    mEndSample: 5013473
+  - mStartSample: 5059894
+    mEndSample: 5059894
+  - mStartSample: 5114052
+    mEndSample: 5114052
+  - mStartSample: 5253315
+    mEndSample: 5253315
+  - mStartSample: 5268789
+    mEndSample: 5268789
+  - mStartSample: 5438999
+    mEndSample: 5438999
+  - mStartSample: 5493157
+    mEndSample: 5493157
+  - mStartSample: 5508631
+    mEndSample: 5508631
+  - mStartSample: 5531842
+    mEndSample: 5531842
+  - mStartSample: 5586000
+    mEndSample: 5586000
+  - mStartSample: 5624684
+    mEndSample: 5624684
+  - mStartSample: 5694315
+    mEndSample: 5694315
+  - mStartSample: 5756210
+    mEndSample: 5756210
+  - mStartSample: 5880000
+    mEndSample: 5880000
+  - mStartSample: 5918684
+    mEndSample: 5918684
+  - mStartSample: 5965105
+    mEndSample: 5965105
+  - mStartSample: 5996052
+    mEndSample: 5996052
+  - mStartSample: 6042473
+    mEndSample: 6042473
+  - mStartSample: 6088894
+    mEndSample: 6088894
+  - mStartSample: 6174000
+    mEndSample: 6174000
+  - mStartSample: 6251368
+    mEndSample: 6251368
+  - mStartSample: 6305526
+    mEndSample: 6305526
+  - mStartSample: 6390631
+    mEndSample: 6390631
+  - mStartSample: 6483473
+    mEndSample: 6483473
+  - mStartSample: 6529894
+    mEndSample: 6529894
+  - mStartSample: 6607263
+    mEndSample: 6607263
+  - mStartSample: 6645947
+    mEndSample: 6645947
+  - mStartSample: 6754263
+    mEndSample: 6754263
+  - mStartSample: 6854842
+    mEndSample: 6854842
+  - mStartSample: 6932210
+    mEndSample: 6932210
+  - mStartSample: 6978631
+    mEndSample: 6978631
+  - mStartSample: 7048263
+    mEndSample: 7048263
+  - mStartSample: 7179789
+    mEndSample: 7179789
+  - mStartSample: 7233947
+    mEndSample: 7233947
+  - mStartSample: 7249421
+    mEndSample: 7249421
+  - mStartSample: 7319052
+    mEndSample: 7319052
+  - mStartSample: 7342263
+    mEndSample: 7342263
+  - mStartSample: 7365473
+    mEndSample: 7365473
+  - mStartSample: 7411894
+    mEndSample: 7411894
+  - mStartSample: 7442842
+    mEndSample: 7442842
+  - mStartSample: 7512473
+    mEndSample: 7512473
+  - mStartSample: 7574368
+    mEndSample: 7574368
+  - mStartSample: 7674947
+    mEndSample: 7674947
+  - mStartSample: 7736842
+    mEndSample: 7736842
+  - mStartSample: 7783263
+    mEndSample: 7783263
+  - mStartSample: 7821947
+    mEndSample: 7821947
+  - mStartSample: 7852894
+    mEndSample: 7852894
+  - mStartSample: 7876105
+    mEndSample: 7876105
+  - mStartSample: 8023105
+    mEndSample: 8023105
+  - mStartSample: 8115947
+    mEndSample: 8115947
+  - mStartSample: 8139157
+    mEndSample: 8139157
+  - mStartSample: 8232000
+    mEndSample: 8232000
+  - mStartSample: 8371263
+    mEndSample: 8371263
+  - mStartSample: 8394473
+    mEndSample: 8394473
+  - mStartSample: 8440894
+    mEndSample: 8440894
+  - mStartSample: 8495052
+    mEndSample: 8495052
+  - mStartSample: 8595631
+    mEndSample: 8595631
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: '{"_time":37.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":41.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":43.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":46.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":50.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":52.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":55.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":57.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":59.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":61.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":70.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":76.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":78.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":84.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":88.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":90.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":92.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":94.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":99.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":101.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":104.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":113.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":116.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":118.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":123.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":125.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":128.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":132.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":134.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":144.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":147.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":148.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":151.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":154.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":156.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":159.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":2,"_customData":null}'
+  - mTextVal: '{"_time":161.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":164.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":166.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":169.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":179.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":180.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":191.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":195.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":196.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":197.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":201.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":203.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":208.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":212.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":220.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":222.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":225.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":227.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":230.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":233.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":244.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":247.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":249.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":251.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":253.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":262.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":268.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":270.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":276.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":280.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":282.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":284.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":286.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":291.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":293.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":296.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":300.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":302.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":3,"_customData":null}'
+  - mTextVal: '{"_time":305.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":307.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":308.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":310.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":315.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":316.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":318.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":6,"_customData":null}'
+  - mTextVal: '{"_time":322.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":324.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":327.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":2,"_customData":null}'
+  - mTextVal: '{"_time":330.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":339.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":340.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":351.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":355.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":356.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":357.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":361.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":363.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":368.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":372.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":380.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":382.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":385.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":387.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":390.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":393.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":399.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":404.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":407.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":413.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":419.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":422.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":427.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":429.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":436.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":443.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":448.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":451.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":455.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":464.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":467.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":468.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":473.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":474.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":476.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":479.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":481.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":485.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":489.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":496.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":500.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":503.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":505.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":507.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":509.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":518.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":524.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":526.0,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":532.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":541.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":542.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":0,"_customData":null}'
+  - mTextVal: '{"_time":545.5,"_lineIndex":2,"_lineLayer":0,"_type":0,"_cutDirection":7,"_customData":null}'
+  - mTextVal: '{"_time":549.0,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  - mTextVal: '{"_time":555.5,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1,"_customData":null}'
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a000000
