@@ -14,7 +14,10 @@ PS These are the 3rd party, paid packages that I used (❤️).
 
 - Koreographer Professional Edition
   https://assetstore.unity.com/packages/tools/audio/koreographer-professional-edition-44270
- 
+
+- VR UI Kit: Material Design System
+  https://assetstore.unity.com/packages/tools/gui/vr-ui-kit-material-design-system-135769
+
 - PepperMint DataBinding
   https://assetstore.unity.com/packages/tools/gui/peppermint-data-binding-90687
 
