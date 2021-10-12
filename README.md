@@ -12,13 +12,13 @@ https://www.notion.so/beatlabs/Brain-Dumps-2c4dc6afe32d41d9862be2ef36f1f0c8
 
 PS These are the 3rd party, paid packages that I used (❤️).
 
-- Koreographer Professional Edition  
+- Koreographer Professional Edition \
   https://assetstore.unity.com/packages/tools/audio/koreographer-professional-edition-44270
 
-- VR UI Kit: Material Design System  
+- VR UI Kit: Material Design System \
   https://assetstore.unity.com/packages/tools/gui/vr-ui-kit-material-design-system-135769
 
-- PepperMint DataBinding  
+- PepperMint DataBinding \
   https://assetstore.unity.com/packages/tools/gui/peppermint-data-binding-90687
 
 PS2 I hope that I've removed all propriertary code. If you notice that I didn't, please let me know.
